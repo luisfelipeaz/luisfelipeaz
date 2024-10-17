@@ -7,7 +7,7 @@
   
 <div>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=BlackSasPizzas&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=BlackSasPizzas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=BlackSasPizzas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/fscorsini/fscorsini/blob/output/github-contribution-grid-snake-dark.svg)
