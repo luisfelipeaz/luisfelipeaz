@@ -10,6 +10,7 @@
 <div>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=BlackSasPizzas&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=BlackSasPizzas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
  
 </div>
 
@@ -18,12 +19,15 @@
  [![My Skills](https://skillicons.dev/icons?i=c,cs,py)](https://skillicons.dev)
  
  ## 🧰 Ferramentas/Tools:
-
-
+ <div style="display:inline_block">
+<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+</div>
 
 ## 📖 Aprendendo/Learning:
 <div style="display:inline_block">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
