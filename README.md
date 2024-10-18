@@ -4,10 +4,8 @@
 ## ⚡ GitHub Stats:
   
 <div>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=BlackSasPizzas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=BlackSasPizzas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
- 
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=luisfelipeaz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=luisfelipeaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🖥️ Linguagens/Languages:
