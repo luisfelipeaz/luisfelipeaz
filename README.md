@@ -38,9 +38,3 @@
 
 ![Snake animation](https://github.com/fscorsini/fscorsini/blob/output/github-contribution-grid-snake-dark.svg)
 
-
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=yourusername" />
