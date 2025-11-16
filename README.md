@@ -10,7 +10,7 @@
 
 ## 🖥️ Linguagens/Languages:
 
- [![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,mysql)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,mysql,c++)](https://skillicons.dev)
  
  ## 🧰 Ferramentas/Tools:
  <div style="display:inline_block">
